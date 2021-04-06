@@ -1,0 +1,13 @@
+body {
+  width: 100%;
+  min-height: 100vh;
+  height: 100%;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+
+}
+
+div {
+  font-size: 2rem;
+  color: #111;
+}
