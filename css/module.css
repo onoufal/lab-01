@@ -1,112 +1,112 @@
 div:nth-child(1) {
-  background-color: rgb(21, 236, 39);
+  background-color: khaki;
 }
 
 div:nth-child(2) {
-  background-color: rgb(185, 90, 45);
+  background-color: cadetblue;
 }
 
 div:nth-child(3) {
-  background-color: rgb(67, 20, 197);
+  background-color: red;
 }
 
 div:nth-child(4) {
-  background-color: rgb(221, 20, 161);
+  background-color: yellow;
 }
 
 div:nth-child(5) {
-  background-color: rgba(42, 5, 53, 0.473);
+  background-color: cyan;
 }
 
 div:nth-child(6) {
-  background-color: rgb(117, 78, 78);
+  background-color: gray;
 }
 
 div:nth-child(7) {
-  background-color: rgb(58, 4, 35);
+  background-color: orange;
 }
 
 div:nth-child(8) {
-  background-color: rgb(4, 37, 19);
+  background-color: magenta;
 }
 
 div:nth-child(9) {
-  background-color: rgb(207, 126, 21);
+  background-color: green;
 }
 
 @media only screen and (min-width:481px) {
   div:nth-child(1) {
-      background-color: rgb(24, 84, 92);
+      background-color: pink;
   }
 
   div:nth-child(2) {
-      background-color: rgb(71, 59, 59);
+      background-color: gray;
   }
 
   div:nth-child(3) {
-      background-color: rgb(29, 51, 58);
+      background-color: wheat;
   }
 
   div:nth-child(4) {
-      background-color: rgb(202, 245, 11);
+      background-color: skyblue;
   }
 
   div:nth-child(5) {
-      background-color: rgb(240, 55, 55);
+      background-color: darkgoldenrod;
   }
 
   div:nth-child(6) {
-      background-color: rgb(241, 43, 241);
+      background-color: violet;
   }
 
   div:nth-child(7) {
-      background-color: rgb(184, 36, 20);
+      background-color: salmon;
   }
 
   div:nth-child(8) {
       color: white;
-      background-color: rgb(34, 97, 150);
+      background-color: black;
   }
 
   div:nth-child(9) {
-      background-color: rgb(129, 18, 124);
+      background-color: slateblue;
   }
 }
 
 @media only screen and (min-width:769px) {
   div:nth-child(1) {
-      background-color: rgb(140, 163, 36);
+      background-color: green;
   }
 
   div:nth-child(2) {
-      background-color: rgb(37, 158, 44);
+      background-color: yellow;
   }
 
   div:nth-child(3) {
-      background-color: rgb(143, 23, 39);
+      background-color: blue;
   }
 
   div:nth-child(4) {
-      background-color: rgb(253, 148, 28);
+      background-color: gray;
   }
 
   div:nth-child(5) {
-      background-color: rgb(102, 35, 11);
+      background-color: orangered;
   }
 
   div:nth-child(6) {
-      background-color: rgb(12, 141, 192);
+      background-color: red;
   }
 
   div:nth-child(7) {
-      background-color: rgb(70, 24, 156);
+      background-color: greenyellow;
   }
 
   div:nth-child(8) {
-      background-color: rgb(175, 19, 189);
+      background-color: cyan;
   }
 
   div:nth-child(9) {
-      background-color: rgb(15, 5, 102);
+      background-color: wheat;
   }
 }
